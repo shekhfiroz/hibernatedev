@@ -1,7 +1,6 @@
 package com.main.beans;
 import java.io.Serializable;
 import java.sql.Date;
-
 /*reading db credentials from properties file*/
 public class Society implements Serializable {
 	protected int societyNo;
